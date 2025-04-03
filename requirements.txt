@@ -1,0 +1,2 @@
+matplotlib
+gradescope-utils>=0.3.1
